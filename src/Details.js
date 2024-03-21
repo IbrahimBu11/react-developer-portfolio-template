@@ -14,8 +14,8 @@ import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
-import projectImage2 from "./assets/projects/project2.jpg";
+import projectImage1 from "./assets/projects/TripleHandPoker.jpeg";
+import projectImage2 from "./assets/projects/Supermarket Chase.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
@@ -37,10 +37,9 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/ibrahim-butt321123/",
+  github: "https://github.com/IbrahimBu11",
+  instagram: "https://www.instagram.com/__ibrahim_butt__/",
 };
 
 // Enter your Work Experience here
@@ -102,9 +101,9 @@ export const projectDetails = [
     githubLink: "https://github.com",
   },
   {
-    title: "Grand Mafia Shooter",
+    title: "Police Supermarket Chase",
     image: projectImage2,
-    description: `Static Shooter Game  with RPG Elements`,
+    description: `Police Missions Simulation`,
     techstack: "Unity",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
