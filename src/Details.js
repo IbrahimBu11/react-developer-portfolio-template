@@ -16,7 +16,7 @@ import figma from "./assets/techstack/figma.png";
 // Porject Images
 import projectImage1 from "./assets/projects/TripleHandPoker.jpeg";
 import projectImage2 from "./assets/projects/Supermarket Chase.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
+import projectImage3 from "./assets/projects/Mafia Shooter.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
 import projectImage6 from "./assets/projects/project6.jpg";
@@ -59,7 +59,7 @@ export const workDetails = [
     Duration: "Sep 2021 - Dec 2021",
   },
   {
-    Position: "Internship",
+    Position: "Internee",
     Company: `Game Train`,
     Location: "Lahore",
     Type: "Internship",
@@ -109,9 +109,9 @@ export const projectDetails = [
     githubLink: "https://github.com",
   },
   {
-    title: "Long Drive Road Trip",
+    title: "West World Mafia Shootout",
     image: projectImage3,
-    description: `Simulation of long distance journey `,
+    description: `Static Shooting Game`,
     techstack: "Unity",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
