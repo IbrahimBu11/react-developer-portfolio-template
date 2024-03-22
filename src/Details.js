@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 // import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/profile1.png";
 // Tech stack images
 import unity from "./assets/techstack/unity.png"
 import html from "./assets/techstack/html.png";
